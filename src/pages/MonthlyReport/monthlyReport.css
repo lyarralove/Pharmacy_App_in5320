@@ -1,0 +1,18 @@
+.report-table {
+  margin-bottom: 2%;
+}
+
+.report-table-cell-head-title {
+  background-color: #1565c0; /*blue 700 on DHIS2*/
+  color: #ffffff;
+}
+
+.top-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.report-button {
+  margin-top: 35px;
+}

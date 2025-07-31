@@ -1,0 +1,39 @@
+.custom-table {
+  margin-bottom: 2%;
+}
+
+.table-cell-head-title {
+  background-color: #1565c0; /*blue 700 on DHIS2*/
+  color: #ffffff;
+}
+
+.checkbox-cell {
+  width: 10%;
+}
+.checkbox-table {
+  margin-left: 10px;
+}
+
+.consumption-date {
+  width: 5%;
+}
+.consumption-time {
+  width: 5%;
+}
+.commodity-name {
+  width: 35%;
+}
+.consumption {
+  width: 10%;
+}
+.consumption-dispensed-by {
+  width: 20%;
+}
+.recipient {
+  width: 30%;
+}
+
+.stock-number {
+  display: inline-block;
+  margin-left: 10px;
+}

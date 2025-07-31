@@ -1,0 +1,21 @@
+.sort-icon {
+  vertical-align: middle;
+  color: #a0adba; /* grey500 from DHIS2 ui library */
+  display: inline-block;
+  height: 100%;
+  text-align: middle;
+  align-items: middle;
+}
+
+.neutral-icon {
+  opacity: 0.5;
+  color: #cccccc;
+}
+
+.help-icon {
+  cursor: pointer;
+}
+
+.tooltip {
+  border: 2px solid #147cd7;
+}

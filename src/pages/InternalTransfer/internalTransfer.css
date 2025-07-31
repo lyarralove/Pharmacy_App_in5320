@@ -1,0 +1,38 @@
+.search-input {
+  margin-top: 10px;
+}
+
+.search-dropdown {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+  margin-bottom: 10px;
+}
+
+.flyout-menu {
+  position: absolute !important;
+  z-index: 1000 !important;
+  top: 100% !important;
+  left: 0 !important;
+  width: 100% !important;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background: white;
+}
+
+.internal-transfer-wrapper {
+  display: flex;
+  gap: 2%;
+  margin-bottom: 1%;
+}
+
+.search-input {
+  flex: 1 1 auto;
+  max-width: 300px;
+}
+
+.aligned-button {
+  flex: 0 1 auto;
+  max-width: 150px;
+  margin-top: 23px;
+}

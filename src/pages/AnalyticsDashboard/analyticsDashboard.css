@@ -1,0 +1,16 @@
+.same-line-left {
+  display: flex;
+  align-items: center;
+}
+
+.graph-container {
+  height: 350px;
+  width: auto;
+  border: 1px solid black;
+  background-color: white;
+}
+
+.summary-container {
+  width: auto;
+  padding: 10px;
+}

@@ -1,0 +1,113 @@
+.my-multiselect {
+  margin-bottom: 60px;
+}
+
+.modal-title {
+  margin-top: 20px;
+}
+
+.option-input {
+  margin: 10px 0;
+}
+
+.greyed-out {
+  color: #aaa; /* Grey out text color */
+}
+
+.alert-bars {
+  bottom: 1%;
+  padding-left: 16px;
+  position: fixed;
+  width: auto;
+  left: 40%;
+}
+
+.title-and-inputfield {
+  display: flex;
+  flex-direction: column;
+}
+
+.dispensing-wrapper {
+  display: flex;
+  gap: 2%;
+  margin-bottom: 1%;
+}
+
+.dispenser {
+  flex: 1 1 auto;
+  max-width: 300px;
+}
+
+.recipient {
+  flex: 1 1 auto;
+  max-width: 150px;
+}
+
+.quantity-container {
+  flex: 1 1 auto;
+  max-width: 100px;
+  position: relative;
+}
+
+.quantity {
+  position: absolute;
+  width: 100%;
+}
+
+.aligned-button {
+  flex: 0 1 auto;
+  max-width: 150px;
+  margin-top: 23px;
+}
+
+@media (max-width: 768px) {
+  .dispensing-wrapper {
+    flex-direction: column;
+    align-items: stretch;
+    margin-bottom: 4%;
+  }
+
+  .dispenser,
+  .recipient,
+  .quantity-container {
+    max-width: none;
+    flex: 1 1 auto;
+    min-height: 85px;
+  }
+  .aligned-button {
+    flex: 0 1 auto;
+    max-width: none;
+  }
+}
+
+.stock-value-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.low-stock-warning {
+  margin-left: 5px;
+}
+
+.low-stock-indicator {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 10px;
+  margin-bottom: 2px;
+}
+
+.low-stock-indicator span {
+  margin-left: 8px;
+  font-size: 12px;
+}
+
+.same-line-left {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.help-modal {
+  margin-top: 20%;
+}

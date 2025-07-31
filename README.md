@@ -2,6 +2,12 @@
 
 An app to handle data about life-saving medical supplies for the DHIS2 platform.
 
+## NB - Update
+This is a copy of the In5320 final project previously uploaded to my UiO github account. Due to the wishes of a team-member it is not publically available.
+
+This project was part of the exam in the course in5320 and the app was designed, developed and delivered in less than 6-weeks while everyone on the team also had other exams.
+Please note that the code is entirely unchanged from 2023 and may contain bugs, especially due to the short development time.
+
 ## Project Description ✒️
 
 This is a web application for the DHIS2 user case in the course IN5320 at University of Oslo. The goal with the project is to facilitate good, accurate and efficient handling of medical supplies. For this, the store manager, as the primary end user, is especially taken into account. The store manager is described with following characteristics in the course's case description:

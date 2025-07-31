@@ -3,7 +3,7 @@
 An app to handle data about life-saving medical supplies for the DHIS2 platform.
 
 ## NB - Update
-This is a copy of the In5320 final project previously uploaded to my UiO github account. Due to the wishes of a team-member it is not publically available.
+This is a copy of the In5320 final project previously uploaded to my UiO github account.
 The DHIS2 framework we were required to use has a lot of issues, including not being compatible with a lot of node versions. Please take this into consideration before running the program, as you might get errors with the wrong version.
 
 This project was part of the exam in the course in5320 and the app was designed, developed and delivered in less than 6-weeks while everyone on the team also had other exams.

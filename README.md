@@ -7,7 +7,7 @@ This is a copy of the In5320 final project previously uploaded to my UiO github 
 The DHIS2 framework we were required to use has a lot of issues, including not being compatible with a lot of node versions. Please take this into consideration before running the program, as you might get errors with the wrong version.
 
 This project was part of the exam in the course in5320 and the app was designed, developed and delivered in less than 6-weeks while everyone on the team also had other exams.
-Please note that the code is entirely unchanged from 2023 and may contain bugs, especially due to the short development time.
+The code is entirely unchanged from 2023 and may contain bugs, especially due to the short development time.
 
 ## Project Description ✒️
 

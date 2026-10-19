@@ -17,7 +17,7 @@ This is a web application for the DHIS2 user case in the course IN5320 at Univer
 - Might lack knowledge about pharmacy
 - Might lack digital literacy
 
-This project focuses on implementing a soulution with the store manager's previous work-flow and knowledge base in mind. We want to provide the store managers with the functionalities they desire.
+This project focuses on implementing a solution with the store manager's previous work-flow and knowledge base in mind. We want to provide the store managers with the functionalities they desire.
 
 For this, we use the Life-Saving Commodities data set from the DHIS2 demo api.  In addition, we use css, javascript and react. We have implemented the fundemental requirements and chosen the optional tasks (1) Store Management, (3) Requests commodities from nearby clinics (other orgunits), (4) Improved management of commodity recipients and (8) Analytics Dashboard.
 
